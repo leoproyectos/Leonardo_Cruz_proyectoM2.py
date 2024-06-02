@@ -1,3 +1,4 @@
+#funcion para conocer la longitud de la palabra y saber si cumple la condicion.
 def longitud_palabra(palabra):
     longitud = len(palabra)
     
