@@ -1,1 +1,6 @@
 # Leonardo_Cruz_proyectoM2.py
+Este programa lo hice con la funcion len y el condicional if, elif y else e hize una funcion que tiene como nombre longitud_palabra la cual detecta si una palabra esta dentro del rango pedido, detecta si le hacen falta letras para el rango pedido y por ultimo detecta si esta fuera del rango pedido, se le solicita al usario ingresar una palabra y la funcion hara la comparacion.
+
+En el segundo programa lo que hize fue una funcion la cual representa el plano cartesiano, dentro de la funcion detecta primero si hay alguna cordenada en 0 ya que esa cordenada no esta permitida dentro del programa, segundo detecta si esta en el primer cuadradante utilizando un condicional el cual tu al poner que valor tiene la y y la x lo compara con el 0 ya sea que sea menor o mayor lo que lo pondra en el cuadrante correcto ya que detectara si es un negativo o un positivo y sabremos que cuadrante le corresponde.
+
+Como conclusion bootcamp me ah ayudado a tener mejor logica de programacion aparte de obtener mayores competencias dentro del mundo de python y darme la puerta para poder involucrarme en otros lenguages de programacion, me ha ayudado a conocer mas sobre como desarrollar todo tipo de software y sobre todo a resolver problemas con programacion.
